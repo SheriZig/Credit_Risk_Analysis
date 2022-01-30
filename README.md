@@ -1,5 +1,4 @@
 # Credit_Risk_Analysis
-Module 17 Challenge
 
 ## Ensemble
 Ensemble learning is the process of combining multiple models to improve the accuracy and robustness of the model. This will increase the overall performance of the model. 
