@@ -26,6 +26,7 @@ Running a Naive Randam Oversampling model did not provide an acceptable level of
 
 
 When using the SMOTE Oversampling, the results were similar to the Naive Randam Oversampling with a Balanced Accuracy Score of .64 and an f1 of .02. 
+
 ![image](https://user-images.githubusercontent.com/88912539/151712806-0999e687-c4e3-4ffd-942c-847ea17014d8.png)
 
 
